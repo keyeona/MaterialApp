@@ -13,7 +13,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:orientation="vertical"
         android:background="@color/main_beige"
         android:theme="@style/Sampler"
@@ -47,7 +47,7 @@
         <TextView
             android:id="@+id/article_subtitle"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:ellipsize="end"
             android:maxLines="2"
             android:paddingBottom="16dp"
